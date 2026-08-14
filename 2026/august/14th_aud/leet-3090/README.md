@@ -36,4 +36,6 @@
 
 ## Solution
 
-The complete solution is available in [`solution.java`](./solution.java).
+The complete solution 1 is available in [`solution.java`](./solution.java).
+
+The complete solution 2 is available in [`solution.java`](./solution2.java).
