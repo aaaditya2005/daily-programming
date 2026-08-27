@@ -5,4 +5,4 @@
 
 ---
  
-The complete solution  is available in [`solution.java`](./solution.java).
+The complete solution  is available in [`solution.java`](./solution.sql).
